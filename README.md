@@ -24,15 +24,15 @@ Compatible with
 - Electron 26.x - Node.js v18.16.1
 - Electron 27.x - Node.js v18.17.1
 
-Usage is the same as edge or edge-js, replace `require('electron-edge-js')` with `require('electron-edgejs')`:
+Usage is the same as edge or edge-js, replace `require('electron-edge-js')` with `require('edge-js-electron')`:
 
 ```bash
-npm install electron-edgejs
+npm install edge-js-electron
 ```
 
 ```diff
 -var edge = require('electron-edge-js');
-+var edge = require('electron-edgejs');
++var edge = require('edge-js-electron');
 
 var helloWorld = edge.func(function () {/*
     async (input) => {
