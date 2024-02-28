@@ -1,7 +1,7 @@
 # .NET and Node.js in-process on Electron
 
 ***
-### [agracio](https://github.com/agracio) has resumed updating the [electron-edge-js](https://github.com/agracio/electron-edge-js) project. This repository is now deprecated.
+### [agracio](https://github.com/agracio) has resumed updating the [electron-edge-js](https://github.com/agracio/electron-edge-js) project. I am continuing to make new updates in the electron-edge-js repository. This repository is now deprecated.
 ***
 
 This is a fork of [electron-edge-js](https://github.com/agracio/electron-edge-js) adapted to support the ~~newest [Electron](https://github.com/electron/electron/) versions~~. This repository was created because the previous repository did not support new electron versions and the maintainer was not actively making new developments.
